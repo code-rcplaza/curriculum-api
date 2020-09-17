@@ -1,0 +1,74 @@
+{
+    "personalData": {
+        "name": "Ricardo Alejandro Plaza Zapata",
+        "age": 32,
+        "nationality": "Chileno",
+        "direction": "Camilo Ortuzar 4030",
+        "telephone": "+56930187384"
+    },
+
+    "academicData": [
+        {
+            "intitution": "IP CHILE",
+            "profession": "Analista Programador Computacional",
+            "timeLapse": {
+                "start": 2016,
+                "end": 2018
+            }
+        },
+        {
+            "intitution": "Universidad Central de Chile",
+            "profession": "Ingeniería Civil en Computación e Informática",
+            "timeLapse": {
+                "start": 2008,
+                "end": 2011
+            }
+        },
+        {
+            "intitution": "Complejo Educacional Esperanza",
+            "profession": "Enseñanza Media",
+            "timeLapse": {
+                "start": 2002,
+                "end": 2005
+            }
+        },
+        {
+            "intitution": "Complejo Educacional Esperanza",
+            "profession": "Enseñanza básica",
+            "timeLapse": {
+                "start": 1993,
+                "end": 2001
+            }
+        }
+    ],
+
+    "workExperience": [
+        {
+            "company": "Zenta Group",
+            "job": "Desarrollador Experto",
+            "timeLapse": {
+                "start": 2018,
+                "end": 2020
+            },
+            "description": "Mi último proyecto consistió en la creación de una REST API para SKY Airlines, esta se desarrolló con Node.js, Express y MongoDB, además se tuvo que realizar la integración con otros sistemas propios de la aerolínea. Anteriormente fui parte la célula que formó el Laboratorio de Innovación, en LATAM Airlines, aquí cumplí funciones de frontend, siendo el encargado de generar las vistas para cada PoC que fue desarrollada, aquí profundice mis conocimientos en React.js y Angular 2+. Formé parte del equipo que comenzó el desarrollo de Stack.bio, aquí adquirí conocimientos base en Angular 2+ y mi primer acercamiento con una REST API."
+        },
+        {
+            "company": "Grupo Datco Chile",
+            "job": "Desarrollador Junior",
+            "timeLapse": {
+                "start": 2018,
+                "end": 2017
+            },
+            "description": "Para The Bank of Tokyo-Mitsubishi UFJ, desarrollé un sistema de gestión y envío de reportería a través de Sharepoint, este fue desarrollado en C# con EntityFramework. Aquí realicé mi practica profesional, donde tuve mi primer acercamiento al frontend, con el uso de Angular.js y tomé mis primeras responsabilidades dentro de equipos de trabajo."
+        },
+        {
+            "company": "Holdtech",
+            "job": "Asistente de catalogo",
+            "timeLapse": {
+                "start": 2017,
+                "end": 2015
+            },
+            "description": "Dentro de mis funciones se encuentran la publicación de contenido HTML dentro del sitio web de Paris.cl, contactar a proveedores, realizar seguimiento y mantener el orden dentro del departamento de Electro-Hogar, el cual generaba, hasta ese entonces, el 47% de los ingresos de Paris.cl."
+        }
+    ]
+}
